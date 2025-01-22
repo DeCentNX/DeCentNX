@@ -14,9 +14,9 @@
 
 <div>&nbsp;</div>
 
-<div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=DeCentNX&theme=xcode" /> 
-</div>
+
+[![DeCentNX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div>&nbsp;</div>
   
