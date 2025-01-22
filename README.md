@@ -5,10 +5,11 @@
   </a>
 </div>
 
+<!-- 在不同主题下加载不同的图片，适配用户系统的亮色模式和深色模式 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/g/hDeCentNX/DeCentNX/coding.gif" />
 </picture>
 
 <div>&nbsp;</div>
