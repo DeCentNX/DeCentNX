@@ -14,16 +14,16 @@
 
 <div>&nbsp;</div>
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeCentNX" /> </div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
+
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
+
 <!-- Activity Graph -->
 [![DeCentNX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div>&nbsp;</div>
-  
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeCentNX" /> </div>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeCentNX&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
