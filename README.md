@@ -15,7 +15,9 @@
     <img src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/coding.gif" />
   </picture>
 </div>
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<!-- <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/>
+</div> -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
 <!-- Activity Graph -->
 <div>
