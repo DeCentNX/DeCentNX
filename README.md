@@ -1,3 +1,4 @@
+<!-- 打字特效 -->
 <div>
   <a href="https://github.com/DeCentNX">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小张同学祝您今天开心顺利!&center=true&size=27" />
@@ -5,7 +6,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/developer.svg" height="225px" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
 <div>&nbsp;</div>
