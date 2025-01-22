@@ -19,5 +19,5 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
 <!-- Activity Graph -->
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX&theme=github-compact&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX&theme=github-compact&hide_border=true&area=true&days=15"/>
 </div>
