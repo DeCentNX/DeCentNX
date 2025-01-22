@@ -10,6 +10,8 @@
 
  <div>&nbsp;</div>
 
+ <img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
+
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DeCentNX&theme=xcode" /> </div>
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
