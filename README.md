@@ -23,5 +23,10 @@
 <!-- Activity Graph -->
 <div>
   <img src="https://activity-graph-1m8wg22w7-ihrds-projects.vercel.app/graph?username=DeCentNX&theme=github-compact"/>
+  
 </div>
+
+![Github Activity Graph](<https://activity-graph-1m8wg22w7-ihrds-projects.vercel.app>/graph?username=<DeCentNX>)
+![Github Activity Graph](https://activity-graph-1m8wg22w7-ihrds-projects.vercel.app/graph?username=<DeCentNX>)
+
 
