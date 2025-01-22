@@ -5,7 +5,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DeCentNX/DeCentNX/blob/main/developer.svg" height="225px" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/blob/main/developer.svg" height="225px" />
 </picture>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DeCentNX&theme=xcode" /> </div>
