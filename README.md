@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**DeCentNX/DeCentNX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div>
   <a href="https://github.com/DeCentNX">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小张同学祝您今天开心顺利!&center=true&size=27" />
@@ -22,7 +5,7 @@ Here are some ideas to get you started:
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="" height="225px" />
+  <source media="(prefers-color-scheme: light)" srcset="./developer.svg" height="225px" />
 </picture>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DeCentNX&theme=xcode" /> </div>
