@@ -21,6 +21,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
 
 <!-- Activity Graph -->
-[![DeCentNX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX&theme=github-compact"/>
+</div>
 
