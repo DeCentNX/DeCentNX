@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <source media="(prefers-color-scheme: light)" srcset="" height="225px" />
 </picture>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DeCentNX&theme=xcode" /> </div>
