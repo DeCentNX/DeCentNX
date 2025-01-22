@@ -8,13 +8,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/developer.svg" height="225px" />
 </picture>
 
- <div>&nbsp;</div>
+<div>&nbsp;</div>
 
- <img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
+<div align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=DeCentNX&theme=xcode" /> 
+</div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DeCentNX&theme=xcode" /> </div>
-
+<div>&nbsp;</div>
+  
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeCentNX" /> </div>
 
