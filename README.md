@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小张同学祝您今天开心顺利!&center=true&size=27" />
   </a>
 </div>
-
 <!-- 在不同主题下加载不同的图片，适配用户系统的亮色模式和深色模式 -->
 <div align="center">
   <picture>
@@ -16,9 +15,8 @@
     <img src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/coding.gif" />
   </picture>
 </div>
-
-
-
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/DeCentNX/DeCentNX/hr.gif" />
 <!-- Activity Graph -->
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX&theme=github-compact&hide_border=true&area=true"/>
