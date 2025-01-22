@@ -14,8 +14,8 @@
 
 <div>&nbsp;</div>
 
-
-[![DeCentNX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph -->
+[![DeCentNX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeCentNX&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div>&nbsp;</div>
