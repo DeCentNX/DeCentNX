@@ -22,6 +22,6 @@
 
 <!-- Activity Graph -->
 <div>
-  <img src="https://active-graph.vercel.app/graph?username=DeCentNX&theme=github-compact"/>
+  <img src="https://activity-graph-git-main-ihrds-projects.vercel.app/graph?username=DeCentNX&theme=github-compact"/>
 </div>
 
